@@ -1,0 +1,7 @@
+{
+  "name": "Dompet Digital SKAB",
+  "description": "A digital wallet application for students of Sekolah Kristen Anak Bangsa to make payments at the school canteen via QR code scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
